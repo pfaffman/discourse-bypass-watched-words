@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    bypass_watched_words_enabled: "Enable BypassWatchedWords plugin"
+    bypass_watched_words_group: "Name of group whose posts should be approved automatically"
