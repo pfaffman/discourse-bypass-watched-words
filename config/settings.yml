@@ -1,0 +1,11 @@
+plugins:
+  bypass_watched_words_enabled:
+    default: false
+    client: true
+  bypass_watched_words_group:
+    default: ""
+    client: true
+    type: group
+
+
+  
